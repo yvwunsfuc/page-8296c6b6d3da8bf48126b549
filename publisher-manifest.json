@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "a826a0e0a4a0b04aa176c8f3",
+  "owner": "yvwunsfuc",
+  "repo": "page-8296c6b6d3da8bf48126b549",
+  "title": "免费订阅clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8296c6b6d3da8bf48126b549",
+      "a": "Walless",
+      "b": "免费订阅clash节点",
+      "entity": "Walless",
+      "brand": "免费订阅clash节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cfd3228d9ea38a9b0f137b5e1bd77c0c53893bd9238050bd5bd275f9b583f50a",
+      "content": {
+        "primary_entity": "Walless",
+        "keyword1": "Walless",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，订阅导入方式和系统适配要求各有差异。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比套餐后按设备数量与流量需求挑选，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供清晰的实际内容。Walless 提供基础版、旗舰版与团队版三档方案，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备在线需求。选择时先确认常用设备数量，再对照流量用量与线路类型，最后按所用客户端文档导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "结合设备数量、流量用量与订阅周期三个维度来挑套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "先用设备数量锁定范围：3 台选基础版，5 台选旗舰版，20 台选团队版。",
+          "AI_FEATURE_TITLE_1": "按设备数选",
+          "AI_FEATURE_TEXT_2": "月流量 100GB、300GB 与 1000GB 三档，按日常用量匹配对应版本。",
+          "AI_FEATURE_TITLE_2": "按流量匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150 起，长期使用可按周期选择更划算的方式。",
+          "AI_FEATURE_TITLE_3": "按周期决策",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，三步明确具体操作。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "Walless 面向需要海外网络加速的中文用户，提供基础版、旗舰版与团队版三档套餐。按设备数量与每月流量需求选择版本，再通过 Clash 等客户端导入订阅即可开始使用，流程直接。",
+          "AI_HERO_SUBTITLE": "选套餐、配订阅，一步到位",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "支持年付与月付灵活切换",
+          "AI_PLANS_INTRO": "基础版每月 100GB 与 3 台设备，旗舰版每月 300GB 与 5 台设备，团队版每月 1000GB 与 20 台设备，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量用量，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "核对所用系统的客户端适配要求，确认订阅导入方式与设备在线限制。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在客户端中填入订阅地址并更新节点列表，按界面提示完成导入与保存。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Walless 加速方案",
+          "AI_FAQ_ANSWER_1": "基础版适合一两台设备、每月流量 100GB 以内的用户；旗舰版适合三到五台设备、有流媒体和游戏需求，每月 300GB 流量；团队版面向二十台设备同时在线、月流量 1000GB 的场景。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数指同一时间保持连接的终端数量，手机、电脑、平板分别计算。",
+          "AI_FAQ_ANSWER_3": "可以。年付把 12 个月按 10 个月计费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，比月付分别节省 ¥30、¥70、¥170。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅地址或二维码，选择延迟较低的节点后连接。不同系统的客户端导入位置不同，参照对应客户端的使用说明操作即可。",
+          "AI_FAQ_ANSWER_5": "流量按自然月计算，月底清零不结转。如需更大流量可随时升级到更高一档套餐，升级后新流量额度当月生效。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付能比月付省多少钱？",
+          "AI_FAQ_QUESTION_4": "如何在客户端里配置订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样，可以升级套餐吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7a46edfec2ee165dd80b11f8b26c57754e178d206f0e0a925ec47f157eed3159",
+    "sitemap.xml": "c39a22f6d609939ecc0a07102e9d8680aaed2018c904b871bf79d9d5db0c8323",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9b72a07008f0e751009af65bae2068b03a4f6c7c6e14c2c0031d89368fd9ba37"
+}
